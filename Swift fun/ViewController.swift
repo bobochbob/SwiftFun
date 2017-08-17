@@ -4,7 +4,7 @@
 //
 //  Created by Johannes Åkesson on 2017-08-15.
 //  Copyright © 2017 Johannes Åkesson. All rights reserved...
-//
+//  This is a comment
 
 import UIKit
 
