@@ -3,7 +3,7 @@
 //  Swift fun
 //
 //  Created by Johannes Åkesson on 2017-08-15.
-//  Copyright © 2017 Johannes Åkesson. All rights reserved.
+//  Copyright © 2017 Johannes Åkesson. All rights reserved...
 //
 
 import UIKit
